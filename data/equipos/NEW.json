@@ -1,1 +1,354 @@
-{"id":67,"area":{"id":2072,"name":"England"},"activeCompetitions":[{"id":2021,"area":{"id":2072,"name":"England"},"name":"Premier League","code":"PL","plan":"TIER_ONE","lastUpdated":"2022-03-20T08:58:54Z"}],"name":"Newcastle United FC","shortName":"Newcastle","tla":"NEW","crestUrl":"https://crests.football-data.org/67.png","address":"Sports Direct Arena Newcastle upon Tyne NE1 4ST","phone":null,"website":"http://www.nufc.co.uk","email":"admin@nufc.co.uk","founded":1881,"clubColors":"Black / White","venue":"St. James' Park","squad":[{"id":3310,"name":"Nick Pope","position":"Goalkeeper","dateOfBirth":"1992-04-19T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":5048,"name":"Mark Gillespie","position":"Goalkeeper","dateOfBirth":"1992-03-27T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7856,"name":"Loris Karius","position":"Goalkeeper","dateOfBirth":"1993-06-22T00:00:00Z","countryOfBirth":"Germany","nationality":"Germany","shirtNumber":null,"role":"PLAYER"},{"id":7914,"name":"Martin Dúbravka","position":"Goalkeeper","dateOfBirth":"1989-01-15T00:00:00Z","countryOfBirth":"Slovakia","nationality":"Slovakia","shirtNumber":null,"role":"PLAYER"},{"id":88,"name":"Fabian Schär","position":"Defence","dateOfBirth":"1991-12-20T00:00:00Z","countryOfBirth":"Switzerland","nationality":"Switzerland","shirtNumber":null,"role":"PLAYER"},{"id":1868,"name":"Emil Krafth","position":"Defence","dateOfBirth":"1994-08-02T00:00:00Z","countryOfBirth":"Sweden","nationality":"Sweden","shirtNumber":null,"role":"PLAYER"},{"id":3312,"name":"Kieran Trippier","position":"Defence","dateOfBirth":"1990-09-19T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":3962,"name":"Matt Targett","position":"Defence","dateOfBirth":"1995-09-18T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":4870,"name":"Dan Burn","position":"Defence","dateOfBirth":"1992-05-09T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7917,"name":"Paul Dummett","position":"Defence","dateOfBirth":"1991-09-26T00:00:00Z","countryOfBirth":"England","nationality":"Wales","shirtNumber":null,"role":"PLAYER"},{"id":7919,"name":"Jamaal Lascelles","position":"Defence","dateOfBirth":"1993-11-11T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7928,"name":"Javier Manquillo","position":"Defence","dateOfBirth":"1994-05-05T00:00:00Z","countryOfBirth":"Spain","nationality":"Spain","shirtNumber":null,"role":"PLAYER"},{"id":7930,"name":"Matt Ritchie","position":"Defence","dateOfBirth":"1989-09-10T00:00:00Z","countryOfBirth":"England","nationality":"Scotland","shirtNumber":null,"role":"PLAYER"},{"id":81082,"name":"Sven Botman","position":"Defence","dateOfBirth":"2000-01-12T00:00:00Z","countryOfBirth":"Netherlands","nationality":"Netherlands","shirtNumber":5,"role":"PLAYER"},{"id":168712,"name":"Valentino Livramento","position":"Defence","dateOfBirth":"2002-11-12T00:00:00Z","countryOfBirth":null,"nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":1684,"name":"Bruno Guimarães","position":"Midfield","dateOfBirth":"1997-11-16T00:00:00Z","countryOfBirth":"Brazil","nationality":"Brazil","shirtNumber":39,"role":"PLAYER"},{"id":2563,"name":"Sandro Tonali","position":"Midfield","dateOfBirth":"2000-05-08T00:00:00Z","countryOfBirth":"Italy","nationality":"Italy","shirtNumber":null,"role":"PLAYER"},{"id":4955,"name":"Sean Longstaff","position":"Midfield","dateOfBirth":"1997-10-30T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":6486,"name":"Alexander Isak","position":"Midfield","dateOfBirth":"1999-09-21T00:00:00Z","countryOfBirth":"Sweden","nationality":"Sweden","shirtNumber":null,"role":"PLAYER"},{"id":7798,"name":"Joe Willock","position":"Midfield","dateOfBirth":"1999-08-20T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7922,"name":"Isaac Hayden","position":"Midfield","dateOfBirth":"1995-03-22T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7934,"name":"Jacob Murphy","position":"Midfield","dateOfBirth":"1995-02-24T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":8049,"name":"Jeff Hendrick","position":"Midfield","dateOfBirth":"1992-01-31T00:00:00Z","countryOfBirth":"Republic of Ireland","nationality":"Ireland","shirtNumber":null,"role":"PLAYER"},{"id":8076,"name":"Harvey Barnes","position":"Midfield","dateOfBirth":"1997-12-09T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":8247,"name":"Ryan Fraser","position":"Midfield","dateOfBirth":"1994-02-24T00:00:00Z","countryOfBirth":"Scotland","nationality":"Scotland","shirtNumber":24,"role":"PLAYER"},{"id":76861,"name":"Miguel Almirón","position":"Midfield","dateOfBirth":"1994-02-10T00:00:00Z","countryOfBirth":"Paraguay","nationality":"Paraguay","shirtNumber":null,"role":"PLAYER"},{"id":107330,"name":"Elliot Anderson","position":"Midfield","dateOfBirth":"2002-11-06T00:00:00Z","countryOfBirth":"England","nationality":"Scotland","shirtNumber":null,"role":"PLAYER"},{"id":7848,"name":"Anthony Gordon","position":"Offence","dateOfBirth":"2001-02-24T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":8251,"name":"Callum Wilson","position":"Offence","dateOfBirth":"1992-02-27T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":10653,"name":"Joelinton","position":"Offence","dateOfBirth":"1996-08-14T00:00:00Z","countryOfBirth":"Brazil","nationality":"Brazil","shirtNumber":null,"role":"PLAYER"},{"id":191939,"name":"Lewis Miley","position":"Offence","dateOfBirth":"2006-05-01T00:00:00Z","countryOfBirth":null,"nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":11594,"name":"Eddie Howe","position":null,"dateOfBirth":"1977-11-29T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"COACH"}],"lastUpdated":"2022-09-28T18:51:07Z"}
+{
+    "id": 67,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        }
+    ],
+    "name": "Newcastle United FC",
+    "shortName": "Newcastle",
+    "tla": "NEW",
+    "crestUrl": "https://crests.football-data.org/67.png",
+    "address": "Sports Direct Arena Newcastle upon Tyne NE1 4ST",
+    "phone": null,
+    "website": "http://www.nufc.co.uk",
+    "email": "admin@nufc.co.uk",
+    "founded": 1881,
+    "clubColors": "Black / White",
+    "venue": "St. James' Park",
+    "squad": [
+        {
+            "id": 3310,
+            "name": "Nick Pope",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-04-19T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5048,
+            "name": "Mark Gillespie",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-03-27T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7856,
+            "name": "Loris Karius",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-06-22T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7914,
+            "name": "Martin Dúbravka",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-15T00:00:00Z",
+            "countryOfBirth": "Slovakia",
+            "nationality": "Slovakia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 88,
+            "name": "Fabian Schär",
+            "position": "Defence",
+            "dateOfBirth": "1991-12-20T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 1868,
+            "name": "Emil Krafth",
+            "position": "Defence",
+            "dateOfBirth": "1994-08-02T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3312,
+            "name": "Kieran Trippier",
+            "position": "Defence",
+            "dateOfBirth": "1990-09-19T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3962,
+            "name": "Matt Targett",
+            "position": "Defence",
+            "dateOfBirth": "1995-09-18T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4870,
+            "name": "Dan Burn",
+            "position": "Defence",
+            "dateOfBirth": "1992-05-09T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7917,
+            "name": "Paul Dummett",
+            "position": "Defence",
+            "dateOfBirth": "1991-09-26T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7919,
+            "name": "Jamaal Lascelles",
+            "position": "Defence",
+            "dateOfBirth": "1993-11-11T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7928,
+            "name": "Javier Manquillo",
+            "position": "Defence",
+            "dateOfBirth": "1994-05-05T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7930,
+            "name": "Matt Ritchie",
+            "position": "Defence",
+            "dateOfBirth": "1989-09-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 81082,
+            "name": "Sven Botman",
+            "position": "Defence",
+            "dateOfBirth": "2000-01-12T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+        },
+        {
+            "id": 168712,
+            "name": "Valentino Livramento",
+            "position": "Defence",
+            "dateOfBirth": "2002-11-12T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 1684,
+            "name": "Bruno Guimarães",
+            "position": "Midfield",
+            "dateOfBirth": "1997-11-16T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 39,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2563,
+            "name": "Sandro Tonali",
+            "position": "Midfield",
+            "dateOfBirth": "2000-05-08T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4955,
+            "name": "Sean Longstaff",
+            "position": "Midfield",
+            "dateOfBirth": "1997-10-30T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6486,
+            "name": "Alexander Isak",
+            "position": "Midfield",
+            "dateOfBirth": "1999-09-21T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7798,
+            "name": "Joe Willock",
+            "position": "Midfield",
+            "dateOfBirth": "1999-08-20T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7922,
+            "name": "Isaac Hayden",
+            "position": "Midfield",
+            "dateOfBirth": "1995-03-22T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7934,
+            "name": "Jacob Murphy",
+            "position": "Midfield",
+            "dateOfBirth": "1995-02-24T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8049,
+            "name": "Jeff Hendrick",
+            "position": "Midfield",
+            "dateOfBirth": "1992-01-31T00:00:00Z",
+            "countryOfBirth": "Republic of Ireland",
+            "nationality": "Ireland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8076,
+            "name": "Harvey Barnes",
+            "position": "Midfield",
+            "dateOfBirth": "1997-12-09T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8247,
+            "name": "Ryan Fraser",
+            "position": "Midfield",
+            "dateOfBirth": "1994-02-24T00:00:00Z",
+            "countryOfBirth": "Scotland",
+            "nationality": "Scotland",
+            "shirtNumber": 24,
+            "role": "PLAYER"
+        },
+        {
+            "id": 76861,
+            "name": "Miguel Almirón",
+            "position": "Midfield",
+            "dateOfBirth": "1994-02-10T00:00:00Z",
+            "countryOfBirth": "Paraguay",
+            "nationality": "Paraguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 107330,
+            "name": "Elliot Anderson",
+            "position": "Midfield",
+            "dateOfBirth": "2002-11-06T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7848,
+            "name": "Anthony Gordon",
+            "position": "Offence",
+            "dateOfBirth": "2001-02-24T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8251,
+            "name": "Callum Wilson",
+            "position": "Offence",
+            "dateOfBirth": "1992-02-27T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10653,
+            "name": "Joelinton",
+            "position": "Offence",
+            "dateOfBirth": "1996-08-14T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 191939,
+            "name": "Lewis Miley",
+            "position": "Offence",
+            "dateOfBirth": "2006-05-01T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 11594,
+            "name": "Eddie Howe",
+            "position": null,
+            "dateOfBirth": "1977-11-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2022-09-28T18:51:07Z"
+}

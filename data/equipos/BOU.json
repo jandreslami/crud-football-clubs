@@ -1,1 +1,344 @@
-{"id":1044,"area":{"id":2072,"name":"England"},"activeCompetitions":[{"id":2021,"area":{"id":2072,"name":"England"},"name":"Premier League","code":"PL","plan":"TIER_ONE","lastUpdated":"2022-03-20T08:58:54Z"}],"name":"AFC Bournemouth","shortName":"Bournemouth","tla":"BOU","crestUrl":"https://crests.football-data.org/1044.png","address":"Dean Court, Kings Park Bournemouth BH7 7AF","phone":"+44 (01202) 726300","website":"http://www.afcb.co.uk","email":"admin@afcb.co.uk","founded":1890,"clubColors":"Red / Black","venue":"Vitality Stadium","squad":[{"id":2788,"name":"Ionuț Radu","position":"Goalkeeper","dateOfBirth":"1997-05-28T00:00:00Z","countryOfBirth":"Romania","nationality":"Romania","shirtNumber":null,"role":"PLAYER"},{"id":3221,"name":"Neto","position":"Goalkeeper","dateOfBirth":"1989-07-19T00:00:00Z","countryOfBirth":"Brazil","nationality":"Brazil","shirtNumber":null,"role":"PLAYER"},{"id":4203,"name":"Darren Randolph","position":"Goalkeeper","dateOfBirth":"1987-05-12T00:00:00Z","countryOfBirth":"Republic of Ireland","nationality":"Ireland","shirtNumber":null,"role":"PLAYER"},{"id":3966,"name":"Ryan Fredericks","position":"Defence","dateOfBirth":"1992-10-10T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":4393,"name":"Lloyd Kelly","position":"Defence","dateOfBirth":"1998-10-06T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":4427,"name":"Chris Mepham","position":"Defence","dateOfBirth":"1997-11-05T00:00:00Z","countryOfBirth":"England","nationality":"Wales","shirtNumber":null,"role":"PLAYER"},{"id":8231,"name":"Adam Smith","position":"Defence","dateOfBirth":"1991-04-29T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":46046,"name":"Marcos Senesi","position":"Defence","dateOfBirth":"1997-05-10T00:00:00Z","countryOfBirth":"Argentina","nationality":"Argentina","shirtNumber":null,"role":"PLAYER"},{"id":80765,"name":"Max Aarons","position":"Defence","dateOfBirth":"2000-01-04T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":82145,"name":"James Hill","position":"Defence","dateOfBirth":"2002-01-10T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":143573,"name":"Illia Zabarnyi","position":"Defence","dateOfBirth":"2002-09-01T00:00:00Z","countryOfBirth":"Ukraine","nationality":"Ukraine","shirtNumber":25,"role":"PLAYER"},{"id":171141,"name":"Milos Kerkez","position":"Defence","dateOfBirth":"2003-11-07T00:00:00Z","countryOfBirth":null,"nationality":"Hungary","shirtNumber":null,"role":"PLAYER"},{"id":171540,"name":"Ben Greenwood","position":"Defence","dateOfBirth":"2003-02-20T00:00:00Z","countryOfBirth":null,"nationality":"Ireland","shirtNumber":null,"role":"PLAYER"},{"id":2499,"name":"Hamed Traoré","position":"Midfield","dateOfBirth":"2000-02-16T00:00:00Z","countryOfBirth":"Côte d’Ivoire","nationality":"Ivory Coast","shirtNumber":null,"role":"PLAYER"},{"id":3327,"name":"Lewis Cook","position":"Midfield","dateOfBirth":"1997-02-03T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":4321,"name":"David Brooks","position":"Midfield","dateOfBirth":"1997-07-08T00:00:00Z","countryOfBirth":"England","nationality":"Wales","shirtNumber":null,"role":"PLAYER"},{"id":4350,"name":"Kieffer Moore","position":"Midfield","dateOfBirth":"1992-08-08T00:00:00Z","countryOfBirth":"England","nationality":"Wales","shirtNumber":null,"role":"PLAYER"},{"id":4438,"name":"Emiliano Hansen","position":"Midfield","dateOfBirth":"1995-03-09T00:00:00Z","countryOfBirth":"Denmark","nationality":"Denmark","shirtNumber":null,"role":"PLAYER"},{"id":4921,"name":"Jamal Lowe","position":"Midfield","dateOfBirth":"1994-07-21T00:00:00Z","countryOfBirth":"England","nationality":"Jamaica","shirtNumber":null,"role":"PLAYER"},{"id":5508,"name":"Joe Rothwell","position":"Midfield","dateOfBirth":"1995-01-11T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":6396,"name":"Marcus Tavernier","position":"Midfield","dateOfBirth":"1999-03-22T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":8184,"name":"Philip Billing","position":"Midfield","dateOfBirth":"1996-06-11T00:00:00Z","countryOfBirth":"Denmark","nationality":"Denmark","shirtNumber":null,"role":"PLAYER"},{"id":34495,"name":"Ryan Christie","position":"Midfield","dateOfBirth":"1995-02-22T00:00:00Z","countryOfBirth":"Scotland","nationality":"Scotland","shirtNumber":null,"role":"PLAYER"},{"id":128312,"name":"Gavin Kilkenny","position":"Midfield","dateOfBirth":"2000-02-01T00:00:00Z","countryOfBirth":"Republic of Ireland","nationality":"Ireland","shirtNumber":53,"role":"PLAYER"},{"id":177305,"name":"Dango Ouattara","position":"Midfield","dateOfBirth":"2002-02-11T00:00:00Z","countryOfBirth":null,"nationality":"Burkina Faso","shirtNumber":null,"role":"PLAYER"},{"id":4417,"name":"Antoine Semenyo","position":"Offence","dateOfBirth":"2000-01-07T00:00:00Z","countryOfBirth":"England","nationality":"Ghana","shirtNumber":null,"role":"PLAYER"},{"id":7561,"name":"Justin Kluivert","position":"Offence","dateOfBirth":"1999-05-05T00:00:00Z","countryOfBirth":"Netherlands","nationality":"Netherlands","shirtNumber":null,"role":"PLAYER"},{"id":7878,"name":"Dominic Solanke","position":"Offence","dateOfBirth":"1997-09-14T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":150778,"name":"Jaidon Anthony","position":"Offence","dateOfBirth":"1999-12-01T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":161088,"name":"Alex Scott","position":"Offence","dateOfBirth":"2003-08-21T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":79707,"name":"Iraola","position":null,"dateOfBirth":"1982-06-22T00:00:00Z","countryOfBirth":"Spain","nationality":"Spain","shirtNumber":null,"role":"COACH"}],"lastUpdated":"2022-02-22T14:05:46Z"}
+{
+    "id": 1044,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        }
+    ],
+    "name": "AFC Bournemouth",
+    "shortName": "Bournemouth",
+    "tla": "BOU",
+    "crestUrl": "https://crests.football-data.org/1044.png",
+    "address": "Dean Court, Kings Park Bournemouth BH7 7AF",
+    "phone": "+44 (01202) 726300",
+    "website": "http://www.afcb.co.uk",
+    "email": "admin@afcb.co.uk",
+    "founded": 1890,
+    "clubColors": "Red / Black",
+    "venue": "Vitality Stadium",
+    "squad": [
+        {
+            "id": 2788,
+            "name": "Ionuț Radu",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-05-28T00:00:00Z",
+            "countryOfBirth": "Romania",
+            "nationality": "Romania",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3221,
+            "name": "Neto",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-07-19T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4203,
+            "name": "Darren Randolph",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-05-12T00:00:00Z",
+            "countryOfBirth": "Republic of Ireland",
+            "nationality": "Ireland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3966,
+            "name": "Ryan Fredericks",
+            "position": "Defence",
+            "dateOfBirth": "1992-10-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4393,
+            "name": "Lloyd Kelly",
+            "position": "Defence",
+            "dateOfBirth": "1998-10-06T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4427,
+            "name": "Chris Mepham",
+            "position": "Defence",
+            "dateOfBirth": "1997-11-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8231,
+            "name": "Adam Smith",
+            "position": "Defence",
+            "dateOfBirth": "1991-04-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 46046,
+            "name": "Marcos Senesi",
+            "position": "Defence",
+            "dateOfBirth": "1997-05-10T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 80765,
+            "name": "Max Aarons",
+            "position": "Defence",
+            "dateOfBirth": "2000-01-04T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 82145,
+            "name": "James Hill",
+            "position": "Defence",
+            "dateOfBirth": "2002-01-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 143573,
+            "name": "Illia Zabarnyi",
+            "position": "Defence",
+            "dateOfBirth": "2002-09-01T00:00:00Z",
+            "countryOfBirth": "Ukraine",
+            "nationality": "Ukraine",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+        },
+        {
+            "id": 171141,
+            "name": "Milos Kerkez",
+            "position": "Defence",
+            "dateOfBirth": "2003-11-07T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Hungary",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 171540,
+            "name": "Ben Greenwood",
+            "position": "Defence",
+            "dateOfBirth": "2003-02-20T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Ireland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2499,
+            "name": "Hamed Traoré",
+            "position": "Midfield",
+            "dateOfBirth": "2000-02-16T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Ivory Coast",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3327,
+            "name": "Lewis Cook",
+            "position": "Midfield",
+            "dateOfBirth": "1997-02-03T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4321,
+            "name": "David Brooks",
+            "position": "Midfield",
+            "dateOfBirth": "1997-07-08T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4350,
+            "name": "Kieffer Moore",
+            "position": "Midfield",
+            "dateOfBirth": "1992-08-08T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4438,
+            "name": "Emiliano Hansen",
+            "position": "Midfield",
+            "dateOfBirth": "1995-03-09T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4921,
+            "name": "Jamal Lowe",
+            "position": "Midfield",
+            "dateOfBirth": "1994-07-21T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Jamaica",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5508,
+            "name": "Joe Rothwell",
+            "position": "Midfield",
+            "dateOfBirth": "1995-01-11T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6396,
+            "name": "Marcus Tavernier",
+            "position": "Midfield",
+            "dateOfBirth": "1999-03-22T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8184,
+            "name": "Philip Billing",
+            "position": "Midfield",
+            "dateOfBirth": "1996-06-11T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 34495,
+            "name": "Ryan Christie",
+            "position": "Midfield",
+            "dateOfBirth": "1995-02-22T00:00:00Z",
+            "countryOfBirth": "Scotland",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 128312,
+            "name": "Gavin Kilkenny",
+            "position": "Midfield",
+            "dateOfBirth": "2000-02-01T00:00:00Z",
+            "countryOfBirth": "Republic of Ireland",
+            "nationality": "Ireland",
+            "shirtNumber": 53,
+            "role": "PLAYER"
+        },
+        {
+            "id": 177305,
+            "name": "Dango Ouattara",
+            "position": "Midfield",
+            "dateOfBirth": "2002-02-11T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Burkina Faso",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4417,
+            "name": "Antoine Semenyo",
+            "position": "Offence",
+            "dateOfBirth": "2000-01-07T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7561,
+            "name": "Justin Kluivert",
+            "position": "Offence",
+            "dateOfBirth": "1999-05-05T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7878,
+            "name": "Dominic Solanke",
+            "position": "Offence",
+            "dateOfBirth": "1997-09-14T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 150778,
+            "name": "Jaidon Anthony",
+            "position": "Offence",
+            "dateOfBirth": "1999-12-01T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 161088,
+            "name": "Alex Scott",
+            "position": "Offence",
+            "dateOfBirth": "2003-08-21T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 79707,
+            "name": "Iraola",
+            "position": null,
+            "dateOfBirth": "1982-06-22T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2022-02-22T14:05:46Z"
+}

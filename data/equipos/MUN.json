@@ -1,1 +1,394 @@
-{"id":66,"area":{"id":2072,"name":"England"},"activeCompetitions":[{"id":2021,"area":{"id":2072,"name":"England"},"name":"Premier League","code":"PL","plan":"TIER_ONE","lastUpdated":"2022-03-20T08:58:54Z"}],"name":"Manchester United FC","shortName":"Man United","tla":"MUN","crestUrl":"https://crests.football-data.org/66.png","address":"Sir Matt Busby Way Manchester M16 0RA","phone":"+44 (0161) 8688000","website":"http://www.manutd.com","email":"enquiries@manutd.co.uk","founded":1878,"clubColors":"Red / White","venue":"Old Trafford","squad":[{"id":5457,"name":"Dean Henderson","position":"Goalkeeper","dateOfBirth":"1997-03-12T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7544,"name":"André Onana","position":"Goalkeeper","dateOfBirth":"1996-04-02T00:00:00Z","countryOfBirth":"Cameroon","nationality":"Cameroon","shirtNumber":null,"role":"PLAYER"},{"id":8035,"name":"Tom Heaton","position":"Goalkeeper","dateOfBirth":"1986-04-15T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":136350,"name":"Matej Kovar","position":"Goalkeeper","dateOfBirth":"2000-05-17T00:00:00Z","countryOfBirth":"Czech Republic","nationality":"Czech Republic","shirtNumber":null,"role":"PLAYER"},{"id":3326,"name":"Harry Maguire","position":"Defence","dateOfBirth":"1993-03-05T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":3360,"name":"Raphaël Varane","position":"Defence","dateOfBirth":"1993-04-25T00:00:00Z","countryOfBirth":"France","nationality":"France","shirtNumber":null,"role":"PLAYER"},{"id":3492,"name":"Victor Nilsson-Lindelöf","position":"Defence","dateOfBirth":"1994-07-17T00:00:00Z","countryOfBirth":"Sweden","nationality":"Sweden","shirtNumber":null,"role":"PLAYER"},{"id":7467,"name":"Tyrell Malacia","position":"Defence","dateOfBirth":"1999-08-17T00:00:00Z","countryOfBirth":"Netherlands","nationality":"Netherlands","shirtNumber":null,"role":"PLAYER"},{"id":7898,"name":"Luke Shaw","position":"Defence","dateOfBirth":"1995-07-12T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7901,"name":"Eric Bailly","position":"Defence","dateOfBirth":"1994-04-12T00:00:00Z","countryOfBirth":"Côte d’Ivoire","nationality":"Ivory Coast","shirtNumber":null,"role":"PLAYER"},{"id":8014,"name":"Jonny Evans","position":"Defence","dateOfBirth":"1988-01-03T00:00:00Z","countryOfBirth":"Northern Ireland","nationality":"Northern Ireland","shirtNumber":null,"role":"PLAYER"},{"id":8158,"name":"Aaron Wan-Bissaka","position":"Defence","dateOfBirth":"1997-11-26T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":15905,"name":"Diogo Dalot","position":"Defence","dateOfBirth":"1999-03-18T00:00:00Z","countryOfBirth":"Portugal","nationality":"Portugal","shirtNumber":null,"role":"PLAYER"},{"id":46451,"name":"Lisandro Martínez","position":"Defence","dateOfBirth":"1998-01-18T00:00:00Z","countryOfBirth":"Argentina","nationality":"Argentina","shirtNumber":null,"role":"PLAYER"},{"id":131126,"name":"Brandon Williams","position":"Defence","dateOfBirth":"2000-09-03T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":136352,"name":"Teden Mengi","position":"Defence","dateOfBirth":"2002-04-30T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":182020,"name":"Alvaro Fernandez","position":"Defence","dateOfBirth":"2003-03-23T00:00:00Z","countryOfBirth":null,"nationality":"Spain","shirtNumber":null,"role":"PLAYER"},{"id":146,"name":"Jadon Sancho","position":"Midfield","dateOfBirth":"2000-03-25T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":3231,"name":"Casemiro","position":"Midfield","dateOfBirth":"1992-02-23T00:00:00Z","countryOfBirth":"Brazil","nationality":"Brazil","shirtNumber":null,"role":"PLAYER"},{"id":3257,"name":"Bruno Fernandes","position":"Midfield","dateOfBirth":"1994-09-08T00:00:00Z","countryOfBirth":"Portugal","nationality":"Portugal","shirtNumber":null,"role":"PLAYER"},{"id":3459,"name":"Christian Eriksen","position":"Midfield","dateOfBirth":"1992-02-14T00:00:00Z","countryOfBirth":"Denmark","nationality":"Denmark","shirtNumber":null,"role":"PLAYER"},{"id":7556,"name":"Donny van de Beek","position":"Midfield","dateOfBirth":"1997-04-18T00:00:00Z","countryOfBirth":"Netherlands","nationality":"Netherlands","shirtNumber":null,"role":"PLAYER"},{"id":7599,"name":"Mason Mount","position":"Midfield","dateOfBirth":"1999-01-10T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7905,"name":"Scott McTominay","position":"Midfield","dateOfBirth":"1996-12-08T00:00:00Z","countryOfBirth":"England","nationality":"Scotland","shirtNumber":null,"role":"PLAYER"},{"id":169325,"name":"Hannibal Mejbri","position":"Midfield","dateOfBirth":"2003-01-21T00:00:00Z","countryOfBirth":null,"nationality":"Tunisia","shirtNumber":null,"role":"PLAYER"},{"id":190797,"name":"Kobbie Mainoo","position":"Midfield","dateOfBirth":"2005-04-19T00:00:00Z","countryOfBirth":null,"nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":3331,"name":"Marcus Rashford","position":"Offence","dateOfBirth":"1997-10-31T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":3372,"name":"Anthony Martial","position":"Offence","dateOfBirth":"1995-12-05T00:00:00Z","countryOfBirth":"France","nationality":"France","shirtNumber":null,"role":"PLAYER"},{"id":97085,"name":"Antony","position":"Offence","dateOfBirth":"2000-02-24T00:00:00Z","countryOfBirth":"Brazil","nationality":"Brazil","shirtNumber":null,"role":"PLAYER"},{"id":101075,"name":"Mason Greenwood","position":"Offence","dateOfBirth":"2001-10-01T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":122506,"name":"Facundo Pellistri","position":"Offence","dateOfBirth":"2001-12-20T00:00:00Z","countryOfBirth":"Uruguay","nationality":"Uruguay","shirtNumber":10,"role":"PLAYER"},{"id":133584,"name":"Amad Diallo","position":"Offence","dateOfBirth":"2002-07-11T00:00:00Z","countryOfBirth":"Côte d’Ivoire","nationality":"Ivory Coast","shirtNumber":79,"role":"PLAYER"},{"id":152770,"name":"Rasmus Højlund","position":"Offence","dateOfBirth":"2003-02-04T00:00:00Z","countryOfBirth":"Denmark","nationality":"Denmark","shirtNumber":null,"role":"PLAYER"},{"id":160846,"name":"Shola Shoretire","position":"Offence","dateOfBirth":"2004-02-02T00:00:00Z","countryOfBirth":"England","nationality":"Nigeria","shirtNumber":null,"role":"PLAYER"},{"id":181901,"name":"Alejandro Garnacho","position":"Forward","dateOfBirth":"2004-07-01T00:00:00Z","countryOfBirth":null,"nationality":"Argentina","shirtNumber":null,"role":"PLAYER"},{"id":9584,"name":"Erik ten Hag","position":null,"dateOfBirth":"1970-02-02T00:00:00Z","countryOfBirth":"Netherlands","nationality":"Netherlands","shirtNumber":null,"role":"COACH"}],"lastUpdated":"2022-02-10T19:27:46Z"}
+{
+    "id": 66,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        }
+    ],
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crestUrl": "https://crests.football-data.org/66.png",
+    "address": "Sir Matt Busby Way Manchester M16 0RA",
+    "phone": "+44 (0161) 8688000",
+    "website": "http://www.manutd.com",
+    "email": "enquiries@manutd.co.uk",
+    "founded": 1878,
+    "clubColors": "Red / White",
+    "venue": "Old Trafford",
+    "squad": [
+        {
+            "id": 5457,
+            "name": "Dean Henderson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-03-12T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7544,
+            "name": "André Onana",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-04-02T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "Cameroon",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8035,
+            "name": "Tom Heaton",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-04-15T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 136350,
+            "name": "Matej Kovar",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-05-17T00:00:00Z",
+            "countryOfBirth": "Czech Republic",
+            "nationality": "Czech Republic",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3326,
+            "name": "Harry Maguire",
+            "position": "Defence",
+            "dateOfBirth": "1993-03-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3360,
+            "name": "Raphaël Varane",
+            "position": "Defence",
+            "dateOfBirth": "1993-04-25T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3492,
+            "name": "Victor Nilsson-Lindelöf",
+            "position": "Defence",
+            "dateOfBirth": "1994-07-17T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7467,
+            "name": "Tyrell Malacia",
+            "position": "Defence",
+            "dateOfBirth": "1999-08-17T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7898,
+            "name": "Luke Shaw",
+            "position": "Defence",
+            "dateOfBirth": "1995-07-12T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7901,
+            "name": "Eric Bailly",
+            "position": "Defence",
+            "dateOfBirth": "1994-04-12T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Ivory Coast",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8014,
+            "name": "Jonny Evans",
+            "position": "Defence",
+            "dateOfBirth": "1988-01-03T00:00:00Z",
+            "countryOfBirth": "Northern Ireland",
+            "nationality": "Northern Ireland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8158,
+            "name": "Aaron Wan-Bissaka",
+            "position": "Defence",
+            "dateOfBirth": "1997-11-26T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15905,
+            "name": "Diogo Dalot",
+            "position": "Defence",
+            "dateOfBirth": "1999-03-18T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 46451,
+            "name": "Lisandro Martínez",
+            "position": "Defence",
+            "dateOfBirth": "1998-01-18T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 131126,
+            "name": "Brandon Williams",
+            "position": "Defence",
+            "dateOfBirth": "2000-09-03T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 136352,
+            "name": "Teden Mengi",
+            "position": "Defence",
+            "dateOfBirth": "2002-04-30T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 182020,
+            "name": "Alvaro Fernandez",
+            "position": "Defence",
+            "dateOfBirth": "2003-03-23T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 146,
+            "name": "Jadon Sancho",
+            "position": "Midfield",
+            "dateOfBirth": "2000-03-25T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3231,
+            "name": "Casemiro",
+            "position": "Midfield",
+            "dateOfBirth": "1992-02-23T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3257,
+            "name": "Bruno Fernandes",
+            "position": "Midfield",
+            "dateOfBirth": "1994-09-08T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3459,
+            "name": "Christian Eriksen",
+            "position": "Midfield",
+            "dateOfBirth": "1992-02-14T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7556,
+            "name": "Donny van de Beek",
+            "position": "Midfield",
+            "dateOfBirth": "1997-04-18T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7599,
+            "name": "Mason Mount",
+            "position": "Midfield",
+            "dateOfBirth": "1999-01-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7905,
+            "name": "Scott McTominay",
+            "position": "Midfield",
+            "dateOfBirth": "1996-12-08T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 169325,
+            "name": "Hannibal Mejbri",
+            "position": "Midfield",
+            "dateOfBirth": "2003-01-21T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Tunisia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 190797,
+            "name": "Kobbie Mainoo",
+            "position": "Midfield",
+            "dateOfBirth": "2005-04-19T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3331,
+            "name": "Marcus Rashford",
+            "position": "Offence",
+            "dateOfBirth": "1997-10-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3372,
+            "name": "Anthony Martial",
+            "position": "Offence",
+            "dateOfBirth": "1995-12-05T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 97085,
+            "name": "Antony",
+            "position": "Offence",
+            "dateOfBirth": "2000-02-24T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 101075,
+            "name": "Mason Greenwood",
+            "position": "Offence",
+            "dateOfBirth": "2001-10-01T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 122506,
+            "name": "Facundo Pellistri",
+            "position": "Offence",
+            "dateOfBirth": "2001-12-20T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+        },
+        {
+            "id": 133584,
+            "name": "Amad Diallo",
+            "position": "Offence",
+            "dateOfBirth": "2002-07-11T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Ivory Coast",
+            "shirtNumber": 79,
+            "role": "PLAYER"
+        },
+        {
+            "id": 152770,
+            "name": "Rasmus Højlund",
+            "position": "Offence",
+            "dateOfBirth": "2003-02-04T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 160846,
+            "name": "Shola Shoretire",
+            "position": "Offence",
+            "dateOfBirth": "2004-02-02T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Nigeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 181901,
+            "name": "Alejandro Garnacho",
+            "position": "Forward",
+            "dateOfBirth": "2004-07-01T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9584,
+            "name": "Erik ten Hag",
+            "position": null,
+            "dateOfBirth": "1970-02-02T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2022-02-10T19:27:46Z"
+}

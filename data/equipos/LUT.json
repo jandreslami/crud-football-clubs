@@ -1,1 +1,354 @@
-{"id":389,"area":{"id":2072,"name":"England"},"activeCompetitions":[{"id":2021,"area":{"id":2072,"name":"England"},"name":"Premier League","code":"PL","plan":"TIER_ONE","lastUpdated":"2022-03-20T08:58:54Z"}],"name":"Luton Town FC","shortName":"Luton Town","tla":"LUT","crestUrl":"https://crests.football-data.org/389.png","address":"1 Maple Road Luton LU4 8AW","phone":"+44 (01582) 411622","website":"http://www.lutontown.co.uk","email":null,"founded":1885,"clubColors":"White / Navy Blue / Orange","venue":"Kenilworth Road Stadium","squad":[{"id":5597,"name":"James Shea","position":"Goalkeeper","dateOfBirth":"1991-06-16T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7779,"name":"Matt Macey","position":"Goalkeeper","dateOfBirth":"1994-09-09T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":8991,"name":"Thomas Kamiński","position":"Goalkeeper","dateOfBirth":"1992-10-23T00:00:00Z","countryOfBirth":"Belgium","nationality":"Belgium","shirtNumber":1,"role":"PLAYER"},{"id":3928,"name":"Reece Burke","position":"Defence","dateOfBirth":"1996-09-02T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":4842,"name":"Amari'i Bell","position":"Defence","dateOfBirth":"1994-05-05T00:00:00Z","countryOfBirth":"England","nationality":"Jamaica","shirtNumber":null,"role":"PLAYER"},{"id":5123,"name":"Tom Lockyer","position":"Defence","dateOfBirth":"1994-12-03T00:00:00Z","countryOfBirth":"Wales","nationality":"Wales","shirtNumber":null,"role":"PLAYER"},{"id":5600,"name":"Daniel Potts","position":"Defence","dateOfBirth":"1994-04-13T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":5602,"name":"Glen Rea","position":"Defence","dateOfBirth":"1994-09-03T00:00:00Z","countryOfBirth":"England","nationality":"Ireland","shirtNumber":null,"role":"PLAYER"},{"id":24058,"name":"Mads Juel Andersen","position":"Defence","dateOfBirth":"1997-12-27T00:00:00Z","countryOfBirth":"Denmark","nationality":"Denmark","shirtNumber":null,"role":"PLAYER"},{"id":46751,"name":"Gabriel Osho","position":"Defence","dateOfBirth":"1998-08-14T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":80781,"name":"Alfie Doughty","position":"Defence","dateOfBirth":"1999-12-21T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":82148,"name":"Ryan John Giles","position":"Defence","dateOfBirth":"2000-01-26T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":123574,"name":"Issa Kaboré","position":"Defence","dateOfBirth":"2001-05-12T00:00:00Z","countryOfBirth":"Burkina Faso","nationality":"Burkina Faso","shirtNumber":null,"role":"PLAYER"},{"id":4035,"name":"Luke Freeman","position":"Midfield","dateOfBirth":"1992-03-22T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":4440,"name":"Chiedozie Ogbene","position":"Midfield","dateOfBirth":"1997-05-01T00:00:00Z","countryOfBirth":"Nigeria","nationality":"Ireland","shirtNumber":null,"role":"PLAYER"},{"id":5623,"name":"Luke Berry","position":"Midfield","dateOfBirth":"1992-07-12T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":7817,"name":"Ross Barkley","position":"Midfield","dateOfBirth":"1993-12-05T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":8123,"name":"Dion Pereira","position":"Midfield","dateOfBirth":"1999-03-25T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":8885,"name":"Marvelous Nakamba","position":"Midfield","dateOfBirth":"1994-10-19T00:00:00Z","countryOfBirth":"Zimbabwe","nationality":"Zimbabwe","shirtNumber":null,"role":"PLAYER"},{"id":34877,"name":"Allan Campbell","position":"Midfield","dateOfBirth":"1998-07-04T00:00:00Z","countryOfBirth":"Scotland","nationality":"Scotland","shirtNumber":6,"role":"PLAYER"},{"id":98483,"name":"Tahith Chong","position":"Midfield","dateOfBirth":"1999-12-04T00:00:00Z","countryOfBirth":"Curaçao","nationality":"Netherlands","shirtNumber":null,"role":"PLAYER"},{"id":157149,"name":"Louie Watson","position":"Midfield","dateOfBirth":"2001-06-07T00:00:00Z","countryOfBirth":"England","nationality":"Ireland","shirtNumber":null,"role":"PLAYER"},{"id":170448,"name":"Pelly-Ruddock Mpanzu","position":"Midfield","dateOfBirth":"1994-03-22T00:00:00Z","countryOfBirth":null,"nationality":"DR Congo","shirtNumber":null,"role":"PLAYER"},{"id":4413,"name":"Cauley Woodrow","position":"Offence","dateOfBirth":"1994-12-02T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":5481,"name":"John McAtee","position":"Offence","dateOfBirth":"1999-07-23T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":5483,"name":"Carlton Morris","position":"Offence","dateOfBirth":"1995-12-16T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":5552,"name":"Jacob Brown","position":"Offence","dateOfBirth":"1998-04-10T00:00:00Z","countryOfBirth":"England","nationality":"Scotland","shirtNumber":null,"role":"PLAYER"},{"id":6240,"name":"Jordan Clark","position":"Offence","dateOfBirth":"1993-09-22T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":58085,"name":"Elijah Adebayo","position":"Offence","dateOfBirth":"1998-01-07T00:00:00Z","countryOfBirth":"England","nationality":"England","shirtNumber":null,"role":"PLAYER"},{"id":125722,"name":"Aribim Pepple","position":"Offence","dateOfBirth":"2002-12-25T00:00:00Z","countryOfBirth":"England","nationality":"Canada","shirtNumber":null,"role":"PLAYER"},{"id":128995,"name":"Admiral Muskwe","position":"Offence","dateOfBirth":"1998-08-21T00:00:00Z","countryOfBirth":"England","nationality":"Zimbabwe","shirtNumber":null,"role":"PLAYER"},{"id":46697,"name":"Rob Edwards","position":null,"dateOfBirth":"1982-12-25T00:00:00Z","countryOfBirth":"England","nationality":"Wales","shirtNumber":null,"role":"COACH"}],"lastUpdated":"2022-02-19T08:50:08Z"}
+{
+    "id": 389,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        }
+    ],
+    "name": "Luton Town FC",
+    "shortName": "Luton Town",
+    "tla": "LUT",
+    "crestUrl": "https://crests.football-data.org/389.png",
+    "address": "1 Maple Road Luton LU4 8AW",
+    "phone": "+44 (01582) 411622",
+    "website": "http://www.lutontown.co.uk",
+    "email": null,
+    "founded": 1885,
+    "clubColors": "White / Navy Blue / Orange",
+    "venue": "Kenilworth Road Stadium",
+    "squad": [
+        {
+            "id": 5597,
+            "name": "James Shea",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-06-16T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7779,
+            "name": "Matt Macey",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-09-09T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8991,
+            "name": "Thomas Kamiński",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-10-23T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3928,
+            "name": "Reece Burke",
+            "position": "Defence",
+            "dateOfBirth": "1996-09-02T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4842,
+            "name": "Amari'i Bell",
+            "position": "Defence",
+            "dateOfBirth": "1994-05-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Jamaica",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5123,
+            "name": "Tom Lockyer",
+            "position": "Defence",
+            "dateOfBirth": "1994-12-03T00:00:00Z",
+            "countryOfBirth": "Wales",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5600,
+            "name": "Daniel Potts",
+            "position": "Defence",
+            "dateOfBirth": "1994-04-13T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5602,
+            "name": "Glen Rea",
+            "position": "Defence",
+            "dateOfBirth": "1994-09-03T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Ireland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 24058,
+            "name": "Mads Juel Andersen",
+            "position": "Defence",
+            "dateOfBirth": "1997-12-27T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 46751,
+            "name": "Gabriel Osho",
+            "position": "Defence",
+            "dateOfBirth": "1998-08-14T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 80781,
+            "name": "Alfie Doughty",
+            "position": "Defence",
+            "dateOfBirth": "1999-12-21T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 82148,
+            "name": "Ryan John Giles",
+            "position": "Defence",
+            "dateOfBirth": "2000-01-26T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 123574,
+            "name": "Issa Kaboré",
+            "position": "Defence",
+            "dateOfBirth": "2001-05-12T00:00:00Z",
+            "countryOfBirth": "Burkina Faso",
+            "nationality": "Burkina Faso",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4035,
+            "name": "Luke Freeman",
+            "position": "Midfield",
+            "dateOfBirth": "1992-03-22T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4440,
+            "name": "Chiedozie Ogbene",
+            "position": "Midfield",
+            "dateOfBirth": "1997-05-01T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Ireland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5623,
+            "name": "Luke Berry",
+            "position": "Midfield",
+            "dateOfBirth": "1992-07-12T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7817,
+            "name": "Ross Barkley",
+            "position": "Midfield",
+            "dateOfBirth": "1993-12-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8123,
+            "name": "Dion Pereira",
+            "position": "Midfield",
+            "dateOfBirth": "1999-03-25T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8885,
+            "name": "Marvelous Nakamba",
+            "position": "Midfield",
+            "dateOfBirth": "1994-10-19T00:00:00Z",
+            "countryOfBirth": "Zimbabwe",
+            "nationality": "Zimbabwe",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 34877,
+            "name": "Allan Campbell",
+            "position": "Midfield",
+            "dateOfBirth": "1998-07-04T00:00:00Z",
+            "countryOfBirth": "Scotland",
+            "nationality": "Scotland",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+        },
+        {
+            "id": 98483,
+            "name": "Tahith Chong",
+            "position": "Midfield",
+            "dateOfBirth": "1999-12-04T00:00:00Z",
+            "countryOfBirth": "Curaçao",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 157149,
+            "name": "Louie Watson",
+            "position": "Midfield",
+            "dateOfBirth": "2001-06-07T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Ireland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 170448,
+            "name": "Pelly-Ruddock Mpanzu",
+            "position": "Midfield",
+            "dateOfBirth": "1994-03-22T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "DR Congo",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4413,
+            "name": "Cauley Woodrow",
+            "position": "Offence",
+            "dateOfBirth": "1994-12-02T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5481,
+            "name": "John McAtee",
+            "position": "Offence",
+            "dateOfBirth": "1999-07-23T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5483,
+            "name": "Carlton Morris",
+            "position": "Offence",
+            "dateOfBirth": "1995-12-16T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5552,
+            "name": "Jacob Brown",
+            "position": "Offence",
+            "dateOfBirth": "1998-04-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6240,
+            "name": "Jordan Clark",
+            "position": "Offence",
+            "dateOfBirth": "1993-09-22T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 58085,
+            "name": "Elijah Adebayo",
+            "position": "Offence",
+            "dateOfBirth": "1998-01-07T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 125722,
+            "name": "Aribim Pepple",
+            "position": "Offence",
+            "dateOfBirth": "2002-12-25T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Canada",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 128995,
+            "name": "Admiral Muskwe",
+            "position": "Offence",
+            "dateOfBirth": "1998-08-21T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Zimbabwe",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 46697,
+            "name": "Rob Edwards",
+            "position": null,
+            "dateOfBirth": "1982-12-25T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2022-02-19T08:50:08Z"
+}
