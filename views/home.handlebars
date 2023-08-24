@@ -1,1 +1,24 @@
-<h1>Hello world, this comes from home.hbs</h1>
+<h1>Hello, there are XX teams in the database
+</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Team</th>
+            <th>Country</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+{{#each teams}}
+        <tr>
+            <td>{{name}}</td>
+            <td>{{area.name}}</td>
+            <td>Actions</td>
+        {{else}}<p>No teams exist! Add some to start!</p>
+        </tr>
+{{/each}}
+    </tbody>
+ 
+
+</table>

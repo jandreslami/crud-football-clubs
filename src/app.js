@@ -1,5 +1,6 @@
 import express from 'express';
 import { engine } from 'express-handlebars';
+import {readData} from './services/readData.js';
 
 const app = express();
 
@@ -10,7 +11,12 @@ app.set('views', './views');
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-    res.render('home');
+    const teams = readData()
+    console.log('teams:', teams)
+    res.render('home', {teams});
 });
 
-app.listen(3000);
+const PORT = 3000;
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
