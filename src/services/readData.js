@@ -2,6 +2,6 @@
 
 export function readData (){
     let data = fs.readFileSync("data/teams.json")
-    let formattedData = JSON.parse(data.toString())
-    return formattedData
+    let JSONData = JSON.parse(data.toString())
+    return JSONData
 }

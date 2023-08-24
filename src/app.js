@@ -16,6 +16,16 @@ app.get('/', (req, res) => {
     res.render('home', {teams});
 });
 
+app.get('/team/:id', (req, res) => {
+  const teams = readData()
+  console.log('teams:', teams)
+  res.render('team', {teams});
+});
+
+app.use((req, res) => {
+  res.status(404).send("Sorry, the requested page couldn't be found.");
+});
+
 const PORT = 3000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
