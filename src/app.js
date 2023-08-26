@@ -1,6 +1,7 @@
 import express from 'express';
 import { engine } from 'express-handlebars';
 import {readData} from './services/readData.js';
+import { findTeamByTLA } from './utils.js';
 
 const app = express();
 
@@ -12,14 +13,15 @@ app.use(express.static('public'))
 
 app.get('/', (req, res) => {
     const teams = readData()
-    console.log('teams:', teams)
     res.render('home', {teams});
 });
 
-app.get('/team/:id', (req, res) => {
+app.get('/team/:id', async (req, res) => {
+  const teamId = req.params.id;
   const teams = readData()
-  console.log('teams:', teams)
-  res.render('team', {teams});
+  const requestedTeam =  await findTeamByTLA(teams, teamId);
+  console.log('requestedTeam:', requestedTeam)
+  res.render('team', {requestedTeam});
 });
 
 app.use((req, res) => {

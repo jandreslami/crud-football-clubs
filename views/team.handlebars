@@ -1,0 +1,23 @@
+
+{{#unless requestedTeam}} <p>The team does not exist yet!</p>
+<button>Back</button>
+ {{/unless}}
+
+<img src="{{requestedTeam.crestUrl}}" />
+
+<table>
+    <tbody>
+        <tr>
+           <td> {{requestedTeam.name}}
+            </td>
+        </tr>
+        <tr>
+            <td> {{requestedTeam.address}}
+            </td>
+        </tr>
+        <tr>
+            <td> {{requestedTeam.website}}
+            </td>
+        </tr>
+    </tbody>
+</table>
