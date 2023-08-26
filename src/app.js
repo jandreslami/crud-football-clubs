@@ -20,7 +20,7 @@ app.get('/team/:id', async (req, res) => {
   const teamId = req.params.id;
   const teams = readData()
   const requestedTeam =  await findTeamByTLA(teams, teamId);
-  console.log('requestedTeam:', requestedTeam)
+
   res.render('team', {requestedTeam});
 });
 
