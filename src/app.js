@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+import 'dotenv/config'
 import express from 'express';
 import { engine } from 'express-handlebars';
 import {readData} from './services/readData.js';
@@ -32,7 +34,7 @@ app.use((req, res) => {
   res.status(404).send("Sorry, the requested page couldn't be found.");
 });
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
